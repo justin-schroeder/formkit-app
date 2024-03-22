@@ -3,7 +3,7 @@ import { rootClasses } from "./formkit.theme"
 import { defineFormKitConfig } from '@formkit/vue'
 import { createProPlugin, inputs } from '@formkit/pro'
 
-const pro = createProPlugin('fk-2e4cdbe60', inputs)
+const pro = createProPlugin('fk-000000000000', inputs)
 
 export default defineFormKitConfig(() => ({
   plugins: [pro],
